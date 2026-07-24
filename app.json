@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Backrooms",
+    "slug": "backrooms",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
